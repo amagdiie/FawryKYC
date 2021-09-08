@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="app_bar_fawry">#006B99</color>
+    <color name="fawry_stepper_active">#FFD404</color>
+    <color name="fawry_stepper_active_small">#BF9F00</color>
+    <color name="fawry_stepper_active_big">#D5C679</color>
+    <color name="fawry_stepper_nonactive">#BBBBBB</color>
+    <color name="fawry_scan_button">#FED301</color>
+    <color name="fawry_scan_button_shadow">#00000029</color>
+    <color name="fawry_bottom_nav">#FCFCFC</color>
+    <color name="fawry_bottom_nav_shadow">#0000002E</color>
+    <color name="screen_scan_black">#4F4F4F</color>
+    <color name="screen_scan_gray">#767676</color>
+    <color name="scan_rec">#FFFFFF69</color>
+</resources>

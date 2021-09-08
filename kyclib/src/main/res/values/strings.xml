@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KYCLib</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="problem_detection">We are having problem\'s detecting the ID details. Please make sure you are somewhere with good lighting and that the ID is placed correctly inside the rectangle.</string>
+    <string name="detectionHint">Please scan the front side of your national ID</string>
+</resources>
